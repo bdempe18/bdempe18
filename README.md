@@ -1,15 +1,17 @@
-### Hi there 👋
-
-**bdempe18/bdempe18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jTOpUrwDs3WIcB39JP/giphy.gif"</img>
+</div>
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://stackexchange.com/users/5004094/bdempe?tab=accounts">
+    <img https://img.shields.io/stackexchange/stackoverflow/r/10567650?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400 />
+  </a>
+  <a href="https://twitter.com/dempe_ben">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+  
+  <!-- 
+<a href="https://stackexchange.com/users/5004094/bdempe"><img src="https://stackexchange.com/users/flair/5004094.png" width="208" height="58" alt="profile for bdempe on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for bdempe on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+-->
+  
