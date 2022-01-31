@@ -20,7 +20,7 @@
    - 📊 I love a good data visualization 
    - 🎿 In my free time I am an avid skier
 
-Languages and Frameworks
+### Languages and Frameworks
 <div>
   <h5 style="color: #fe7d37">Data Science</h5>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
