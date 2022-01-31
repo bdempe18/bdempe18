@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/tjB3vFph3TNPUJjVpn/giphy.gif" width="100"/>
   <div id="badges">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/ben-dempe-a95489130/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
     <a href="https://stackexchange.com/users/5004094/bdempe?tab=accounts">
       <img src="https://img.shields.io/stackexchange/stackoverflow/r/10567650?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400 "/>
     </a>
