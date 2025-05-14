@@ -7,9 +7,6 @@
     <a href="https://stackexchange.com/users/5004094/bdempe?tab=accounts" target="_BLANK">
       <img src="https://img.shields.io/stackexchange/stackoverflow/r/10567650?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400 "/>
     </a>
-    <a href="https://twitter.com/dempe_ben" target="_BLANK">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=bdempe18&style=flat-square&color=blue" alt=""/>
 </div>
