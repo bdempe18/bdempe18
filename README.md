@@ -17,35 +17,26 @@
  ---
  
  ### About Me
- I am a computation economist  and data scientist based in Washington D.C.
-   - ⚛️ I am trained as a microeconomist specializing in complexity theory
-   - 📊 I love a good data visualization 
-   - 🎿 In my free time I am an avid skier
+I am Software Engineer based in Denver with a statistics and economics background. I love working on big, complex problems and coming up with elegant, simple solutions. I'm an avid lover of Django and Laravel. 
 
-### Languages and Frameworks
-<div>
-  <h5 style="color: #fe7d37">Data Science</h5>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg"  title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tesnorflow"  alt="Tesnorflow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>  &nbsp;
-  
-  <h5 style="color: #fe7d37">Web Development</h5>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim"  alt="Vim" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Django"  alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-</div>
+  - ⚛️ Trained as a microeconomist specializing in complexity theory
+  - 💻 Backend engineer who can flex to full-stack when duty calls
+  - 📊 Data visualization enthusiast who makes numbers tell stories
 
+### Web Stack
+  - Frameworks: Django, Laravel, Drupal
+  - Languages: Python, PHP, Go, (HTML, Javascript, CSS, Blade, Twigs, Tailwind)
+  - Databases: MySQL, PostGres, Redis
+  - DevOps: AWS, DeployHQ, Git, SSH, Bash, Docker
+
+### Data Science
+  - Languages: Python, R, Julia, Mathematica
+  - Emphasis: Complexity Economics, Simulations, Bayesian Statistics
+
+### After Hours
+  - 🎿 Carving down slopes when there's snow
+  - 🧗‍♂️ Climbing slabs when there isn't
+  - 📚 Reading papers on economic theory for fun (yes, really)
 ---
 
 ### 🔥 My Stats
