@@ -17,11 +17,7 @@
  ---
  
  ### About Me
-I am Software Engineer based in Denver with a statistics and economics background. I love working on big, complex problems and coming up with elegant, simple solutions. I'm an avid lover of Django and Laravel. 
-
-  - ⚛️ Trained as a microeconomist specializing in complexity theory
-  - 💻 Backend engineer who can flex to full-stack when duty calls
-  - 📊 Data visualization enthusiast who makes numbers tell stories
+I am Software Engineer based in Denver with a statistics and economics background. I love working on big, complex problems and coming up with elegant, simple solutions. I'm an avid lover of Django and Laravel. I'm a backend engineer who can flex to full-stack when duty calls. I believe that all data problems can be solves with a good data visualization and that good software is clean software.
 
 ### Web Stack
   - Frameworks: Django, Laravel, Drupal
